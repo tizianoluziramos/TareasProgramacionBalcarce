@@ -1,0 +1,9 @@
+Ahi el archivo de ejemplo=
+
+from playsound import playsound
+
+# Ruta del archivo de sonido
+sound_file = 'ruta/del/archivo/sonido.mp3'
+
+# Reproducir el sonido
+playsound(sound_file)
